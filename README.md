@@ -1,2 +1,2 @@
-# Rapira-soviet-database-
+# Rapira-soviet-database
 My first python project. 
